@@ -1,6 +1,3 @@
-Here is a **GitHub-ready Markdown version** you can **paste directly into README.md**.
-All formatting, line breaks, headers, and bullets are clean and GitHub-compatible.
-
 ---
 
 # **Spam vs. Ham Classification (From Scratch)**
@@ -116,10 +113,3 @@ python spam_classifier.py
 * Automatic predictions for all files inside `test/`
 
 ---
-
-If you want, I can also generate:
-
-✅ Shields.io GitHub badges
-✅ A “Quick Start” section
-✅ A project banner / ASCII art
-Just tell me!
